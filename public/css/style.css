@@ -1,0 +1,138 @@
+body {
+    background: #e4d2b2;
+    padding: 0 0 0 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hello, .exit {
+    z-index: 1;
+}
+
+/*============================ HEADER ============================*/
+
+.header-container {
+    padding-top: 0;
+    width: 100%;
+}
+
+.header {
+    top: 0;
+    background: #47843b;
+    height: 300px;
+}
+
+.header-logo {
+    height: 300px;
+    margin: 0 0 auto 0;
+    padding-left: 0;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.header-logo > img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.header-text {
+    top: 30px;
+    background: #844c61;
+}
+
+/*============================ HEADER END ============================*/
+
+/*============================ NAVBAR ============================*/
+
+.navbar {
+    background: #9be476;
+}
+
+/*============================ NAVBAR END ============================*/
+
+/*============================ CONTENT ============================*/
+
+.sort_wrap_btns {
+    background: #859063;
+}
+
+.sort_wrap {
+
+    width: 300px;
+    margin: auto;
+    background: #0000aa;
+    padding: 0 0 0 0;
+}
+
+.sort_key {
+    width: 100px;
+    background: #9be476;
+}
+
+/*============================ CONTENT END ============================*/
+/*#content {*/
+/*margin-right: -5px;*/
+/*margin-left: -5px;*/
+/*background: #fff;*/
+/*padding: 20px;*/
+/*}*/
+
+/*#footer {*/
+/*background: green;*/
+/*padding: 20px;*/
+/*}*/
+
+/*.feedback {*/
+/*height: auto;*/
+/*overflow: auto;*/
+/*left: auto;*/
+/*}*/
+
+/*.fb_message {*/
+/*width: 100%;*/
+/*height: 200px;*/
+/*background: #f5e5c3;*/
+/*}*/
+
+/*.fb_wrap {*/
+/*max-height: 240px;*/
+/*width: 100%;*/
+/*height: 240px;*/
+/*}*/
+
+/*.feedback {*/
+/*overflow: hidden;*/
+/*background: #ccd7c3;*/
+/*margin: 10px;*/
+/*}*/
+
+/*.feedback .message {*/
+/*margin-top: 10px;*/
+/*}*/
+
+/*.feedback img {*/
+/*height: auto;*/
+/*width: auto;*/
+/*max-height: 240px;*/
+/*max-width: 320px;*/
+/*margin: 10px;*/
+/*float: left;*/
+/*display: inline;*/
+/*}*/
+
+/*.sort_wrap {*/
+/*background: #333333;*/
+/*margin: 10px auto;*/
+/*}*/
+
+/*.sort_wrap button {*/
+/*color: #336600;*/
+/*}*/
+
+/*.user_info, .user_info td {*/
+/*border-style: inset;*/
+/*border-width: 2px;*/
+/*border-color: gold;*/
+/*}*/
