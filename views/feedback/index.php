@@ -1,15 +1,9 @@
 <div class="row">
     <ul class="sort_wrap_btns nav navbar-nav col-sm-12">
         <div class="sort_wrap">
-            <li role="presentation">
-                <button type="button" class="navbar-brand sort_key" data-sort="NAME">NAME</button>
-            </li>
-            <li role="presentation">
-                <button type="button" class="navbar-brand sort_key" data-sort="EMAIL">EMAIL</button>
-            </li>
-            <li role="presentation">
-                <button type="button" class="navbar-brand sort_key" data-sort="CREATED_TIME">DATE</button>
-            </li>
+            <li><button type="button" class="navbar-brand sort_key" data-sort="NAME">NAME</button></li>
+            <li><button type="button" class="navbar-brand sort_key" data-sort="EMAIL">EMAIL</button></li>
+            <li><button type="button" class="navbar-brand sort_key" data-sort="CREATED_TIME">DATE</button></li>
         </div>
     </ul>
 </div>
