@@ -22,9 +22,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <?php if ($is_user): ?>
-                    <li><a href="<?= URL ?>user/logout">Выйти</a></li>
-                <?php else: ?>
+                <?php if (!$is_user): ?>
                     <li><a href="<?= URL ?>index">Главная</a></li>
                     <li><a href="<?= URL ?>login">Вход</a></li>
                     <li><a href="<?= URL ?>registration">Регистрация</a></li>
