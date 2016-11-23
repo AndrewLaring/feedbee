@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -37,7 +47,7 @@
             <state relative-caret-position="270">
               <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="76" />
               <folding>
-                <marker date="1479857825335" expanded="true" signature="402:716" ph="..." />
+                <marker date="1479872471144" expanded="true" signature="402:716" ph="..." />
               </folding>
             </state>
           </provider>
@@ -119,13 +129,13 @@
         <option value="$PROJECT_DIR$/public/css/new_style.css" />
         <option value="$PROJECT_DIR$/views/_layouts/_index.php" />
         <option value="$PROJECT_DIR$/public/js/custom.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test_git_file.php" />
         <option value="$PROJECT_DIR$/views/_partial/_main_menu.php" />
         <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/views/feedback/fb_form.php" />
         <option value="$PROJECT_DIR$/views/feedback/index.php" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -279,12 +289,12 @@
       <workItem from="1479560815794" duration="3050000" />
       <workItem from="1479773106942" duration="18813000" />
       <workItem from="1479836190102" duration="599000" />
-      <workItem from="1479853153962" duration="8292000" />
+      <workItem from="1479853153962" duration="8936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83826000" />
+    <option name="totallyTimeSpent" value="84470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1865" height="1056" extended-state="6" />
@@ -591,14 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config-sample.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -636,7 +638,7 @@
         <state relative-caret-position="270">
           <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="76" />
           <folding>
-            <marker date="1479857825335" expanded="true" signature="402:716" ph="..." />
+            <marker date="1479872471144" expanded="true" signature="402:716" ph="..." />
           </folding>
         </state>
       </provider>
@@ -681,6 +683,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding />
         </state>
       </provider>
