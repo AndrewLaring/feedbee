@@ -1,0 +1,27 @@
+body {
+    background-image: url('../images/background.jpg');
+    color: rgb(239, 233, 147);
+    font-size: 18px;
+}
+.navbar-default{
+    background: rgba(255, 255, 160, 0.7);
+}
+
+.content.container-fluid.content-container{
+    background: rgba(108, 193, 74, 0.3);
+
+}
+h2{
+    color: rgb(239, 233, 147);
+}
+.nav.navbar-nav.li{
+    border-radius: 30px;
+    color:rgb(239, 233, 147);
+    border: dotted 1px;
+}
+.content.container-fluid.content-container{
+    position: relative;
+}
+.col-sm-4.col-xs-12.fb-form-inputs{
+
+}
